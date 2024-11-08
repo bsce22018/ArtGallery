@@ -1,6 +1,7 @@
 # ArtGallery
 
-🚀 Excited to Share My Art Gallery Application Project! 🎨✨
+🚀 Excited to Share My Art Gallery Application Project! 🎨✨ 
+
 I recently developed an art gallery application that brings the world of art closer to audiences while providing a smooth, accessible experience for both artists and customers. This platform not only showcases artwork but also hosts virtual exhibitions and enables customers to purchase art pieces securely.
 Tech Stack:
 -Frontend: React, CSS, JavaScript, HTML
